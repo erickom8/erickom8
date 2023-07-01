@@ -6,7 +6,7 @@
 
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erickom8&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickom8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickom8&layout=compact&theme=merko)
 
 ### Tecnologias utilizadas:
 <div style="dispay: inline_blovck"><br/>
