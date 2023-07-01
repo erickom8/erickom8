@@ -1,4 +1,3 @@
-
 ### Olá! Eu sou o Erick Cirico ✌️ 
 
 
@@ -19,3 +18,10 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickom8&layout=compact)
+
+Apaixonado por jogos, tecnologia, exatas e cosmos... sempre disposto a aprender a cada dia.
+
+
+### Últimos projetos:
+- [Circuito T-Rex game (em Arduino) - TinkerCad](https://www.tinkercad.com/things/6iYTRqlO1sr)<br/>
+- [Circuito controlador de temperatura com Display LCD - TinkerCad ](https://www.tinkercad.com/things/5YQQ6rqDxHa)<br/>
